@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AI-image-Generator/static/css/main.4e74bde6.css",
+    "main.js": "/AI-image-Generator/static/js/main.fbd079e4.js",
+    "static/js/453.62f7835a.chunk.js": "/AI-image-Generator/static/js/453.62f7835a.chunk.js",
+    "static/media/3cover_ydad.jpg": "/AI-image-Generator/static/media/3cover_ydad.e980f522bf01523f5568.jpg",
+    "index.html": "/AI-image-Generator/index.html",
+    "main.4e74bde6.css.map": "/AI-image-Generator/static/css/main.4e74bde6.css.map",
+    "main.fbd079e4.js.map": "/AI-image-Generator/static/js/main.fbd079e4.js.map",
+    "453.62f7835a.chunk.js.map": "/AI-image-Generator/static/js/453.62f7835a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e74bde6.css",
+    "static/js/main.fbd079e4.js"
+  ]
+}
